@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Capstone project Battle of the Neighborhoods from Coursera IBM course applied data science. Trying to use location providers data to assess and analyze which area to shift into which is closer to your new office. 
+Capstone project Battle of the Neighborhoods included in the Coursera IBM course Applied Data Science. The objective of this project is to leverage location data provided by Foursquare to assess which area near your new office would be better to move in to.
